@@ -24,9 +24,7 @@ func main() {
 	// operator and operands
 	y := 99 + 24
 	fmt.Println(y)
-
 	fmt.Println(z)
-
 	test()
 }
 
